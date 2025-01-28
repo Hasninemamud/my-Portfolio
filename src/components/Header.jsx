@@ -10,7 +10,7 @@ function Header() {
         <nav className="flex justify-between items-center">
           {/* Logo */}
           <div className="text-2xl font-bold">
-            <img className="w-30 h-[60px] object-contain" src="/image/logo.jpg" alt="Logo" />
+            <img className="w-30 h-[60px] object-contain" src="/images/logo.jpg" alt="Logo" />
           </div>
 
 

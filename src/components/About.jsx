@@ -14,7 +14,7 @@ function About({ boxSize = "md" }) {
           {/* Image Box */}
           <div className="w-full lg:w-1/3 mb-8 lg:mb-0 lg:mr-8">
             <img
-              src="/image/HasnineMamud.jpg" // Replace with your image path
+              src="/images/HasnineMamud.jpg" // Replace with your image path
               alt="About Me"
               className="rounded-lg shadow-lg w-full object-cover"
             />
